@@ -9,6 +9,7 @@ TagManager:
   - Orange
   - Red
   - Blue
+  - Capsule
   layers:
   - Default
   - TransparentFX
